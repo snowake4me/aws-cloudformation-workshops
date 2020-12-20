@@ -13,7 +13,7 @@
 <!-- HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION     -->
 <!-- OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE        -->
 <!-- SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                                -->
-<!--                                                                                       -->
+<!-- Updated: 12/19/20 Billy Glenn                                                         -->
 # ___AWS CloudFormation Workshops___
 
 ## Introduction
